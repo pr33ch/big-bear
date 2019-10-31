@@ -1,0 +1,2 @@
+GET /static/bearlist.txt HT
+TP/1.1\r\nUser-Agent: nc/0.0.1\r\nHost: 127.0.0.1\r\nAccept: */*\r\n\r\n
